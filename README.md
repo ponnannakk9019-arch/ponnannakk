@@ -17,10 +17,17 @@ My research paper is accepted at **MIKE 2025** and will be published in **Spring
 ---
 
 ## 🏆 Achievements
+### 📑 Research Publications
 
-- 📄 **Paper Accepted – MIKE 2025 Conference**  
-- 📚 **Springer LNAI Publication (Upcoming)**  
-- 🎤 Presented research in an international academic conference  
+* 🧠 **MIKE 2025 Conference Paper**
+   * 10th International Conference on *Mining Intelligence and Knowledge Exploration*
+  * Status: Accepted & Presented
+
+* 🌍 **INDIACom 2026 (IEEE | Scopus Indexed)**
+
+  * 13th International Conference on *Computing for Sustainable Global Development*
+  * Status: Accepted & Presented
+
 
 ---
 
@@ -39,6 +46,7 @@ A machine learning system that analyzes social media behavioral patterns to dete
 
 ### 🧘 Measuring the Impact of Meditation on Academic Stress Levels in UG Students  
 **(INDIACom-2026 | IEEE Delhi Section)**
+
 A machine learning-driven study that evaluates how meditation influences academic stress among undergraduate students using predictive modeling and causal analysis.
 
 **Key Features**
