@@ -81,13 +81,3 @@ A machine learning-driven study that evaluates how meditation influences academi
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
----
-
-## 📊 GitHub Stats
-
-Replace `yourusername` with your GitHub username 👇
-
-```md
-![Ponnu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
