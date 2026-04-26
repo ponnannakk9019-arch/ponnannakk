@@ -37,8 +37,8 @@ A machine learning system that analyzes social media behavioral patterns to dete
 - Sentiment & activity analysis  
 - Mental health risk prediction
 
-🧘 Measuring the Impact of Meditation on Academic Stress Levels in UG Students  
-
+### 🧘 Measuring the Impact of Meditation on Academic Stress Levels in UG Students  
+**(INDIACom-2026 | IEEE Delhi Section)**
 A machine learning-driven study that evaluates how meditation influences academic stress among undergraduate students using predictive modeling and causal analysis.
 
 **Key Features**
