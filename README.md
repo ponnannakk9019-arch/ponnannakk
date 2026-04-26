@@ -20,7 +20,7 @@ My research paper is accepted at **MIKE 2025** and will be published in **Spring
 ### 📑 Research Publications
 
 * 🧠 MIKE 2025 (Springer | LNAI)
-* 
+  
   * 10th International Conference on *Mining Intelligence and Knowledge Exploration*
   * Status: Accepted & Presented
 
